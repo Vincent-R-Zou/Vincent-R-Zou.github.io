@@ -27,7 +27,7 @@ author:
   name             : "Vincent (Rui) Zou"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Research Assistant at SUStech, ShenZhen, China"
-  location         : "Earth"
+  location         : "ShenZhen, China"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "vincentz0704@gmail.com" 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9998-6222"
