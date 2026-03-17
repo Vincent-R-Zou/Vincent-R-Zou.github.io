@@ -1,10 +1,8 @@
 ---
-layout: page
-title: Research
+layout: archive
+title: "Research"
 permalink: /research/
-description: A summary of my research interests and current projects.
-nav: true
-nav_order: 1
+author_profile: true
 ---
 
 ### Current Projects
