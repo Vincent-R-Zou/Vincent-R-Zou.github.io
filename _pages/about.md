@@ -14,9 +14,9 @@ I am currently a Research Assistant in Southern University of Science and Techno
 
 My current work and academic curiosities revolve around: 
 
-Particle Physics: Neutrino Physics & the search for Beyond the Standard Model (BSM) Physics.
-Astrophysics: White Dwarfs & High-Energy Transients & Dark Matter.
-Cosmology: The evolution of the Universe.
+* Particle Physics: Neutrino Physics & the search for Beyond the Standard Model (BSM) Physics.
+* Astrophysics: White Dwarfs & High-Energy Transients & Dark Matter.
+* Cosmology: The evolution of the Universe.
 
 📚 Publications & Citations
 
@@ -24,16 +24,57 @@ I used to work on Fast Radio bursts(FRBs) as cosmological and physical probes in
 
 You can find my full body of work and citation history here:
 👉 [Google Scholar Profile](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en)
+
 Codes contributed to published papers are avaliable here:
 👉 [@VincentZou](https://github.com/Vincent-R-Zou)
 
 📬 Contact Me
 
 Preferred Name: Vincent Zou 
+
 Official Name: Rui Zou 
 Email: zour2025@mail.sustech.edu.cn； vincentz0704@gmail.com
 
 
+# About Me
+
+### 🌌 Vincent (Rui) Zou
+**Research Assistant | Southern University of Science and Technology (SUSTech)**
+
+[cite_start]I am currently a Research Assistant at **SUSTech**, working under the advisement of [Christina Gao](https://cygao.com/). [cite: 31, 32] [cite_start]My current research focuses on uncovering the mysteries of **neutrino physics** and **Beyond the Standard Model (BSM)** physics. [cite: 2, 7, 31]
+
+---
+
+### 🔬 Research Interests
+[cite_start]My academic curiosities revolve around: [cite: 8, 33]
+
+* [cite_start]**Particle Physics:** Neutrino Physics & the search for BSM Physics. [cite: 3, 33]
+* [cite_start]**Astrophysics:** White Dwarfs, High-Energy Transients, & Dark Matter. [cite: 9, 34, 35]
+* [cite_start]**Cosmology:** The evolution of the Universe. [cite: 9, 35]
+
+> [cite_start]**Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S. [cite: 31]
+
+---
+
+### 📚 Publications & Citations
+[cite_start]I actively contribute to the global physics discourse. [cite: 10, 36]
+
+* [cite_start]👉 **[Google Scholar Profile](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en)** [cite: 11, 37]
+* [cite_start]💻 **[Code Contributions](https://github.com/VincentZou):** Codes contributed to published papers are available here. [cite: 37]
+
+---
+
+### 📬 Contact Me
+* [cite_start]**Preferred Name:** Vincent Zou [cite: 1, 39]
+* [cite_start]**Official Name:** Rui Zou [cite: 1, 39]
+* **Emails:** * `zour2025@mail.sustech.edu.cn`
+    * `vincentz0704@gmail.com`
+
+---
+
+### 🛠 Tech Stack
+* [cite_start]**Languages:** Python (Data Analysis), C++, LaTeX [cite: 12, 37]
+* [cite_start]**Scientific Tools:** ROOT, Mathematica, Git [cite: 12, 38]
 
 
 <!-- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
