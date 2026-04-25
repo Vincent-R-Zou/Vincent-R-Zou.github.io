@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
 
 ### 🌌 Vincent (Rui) Zou
 **Research Assistant | Southern University of Science and Technology (SUSTech)**
