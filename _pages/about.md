@@ -6,8 +6,35 @@ redirect_from:
   - /about/
   - /about.html
 ---
+🌌 Vincent (Rui) Zou
 
-Here is my [list of publication](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en) 
+I am currently a Research Assistant in Southern University of Science and Technology (SUSTech) and advised by [Christina Gao](https://cygao.com/). 
+
+🔬 Research Interests
+
+My current work and academic curiosities revolve around: 
+
+Particle Physics: Neutrino Physics & the search for Beyond the Standard Model (BSM) Physics.
+Astrophysics: White Dwarfs & High-Energy Transients & Dark Matter.
+Cosmology: The evolution of the Universe.
+
+📚 Publications & Citations
+
+I used to work on Fast Radio bursts(FRBs) as cosmological and physical probes in M.S, and my current work focuses more on neutrino and BSM physics.
+
+You can find my full body of work and citation history here:
+👉 [Google Scholar Profile](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en)
+Codes contributed to published papers are avaliable here:
+👉 [@VincentZou](https://github.com/Vincent-R-Zou)
+
+📬 Contact Me
+
+Preferred Name: Vincent Zou 
+Official Name: Rui Zou 
+Email: zour2025@mail.sustech.edu.cn； vincentz0704@gmail.com
+
+
+
 
 <!-- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
