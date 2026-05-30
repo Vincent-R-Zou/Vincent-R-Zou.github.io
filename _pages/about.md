@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 ###  Vincent Zou
-**Research Assistant | Southern University of Science and Technology (SUSTech)**
 
-I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https://cygao.com/). 
+I am currently a Research Assistant in Southern University of Science and Technology (SUSTech), advised by [Christina Gao](https://cygao.com/). 
 
 ---
 
