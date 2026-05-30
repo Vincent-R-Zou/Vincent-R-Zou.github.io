@@ -8,8 +8,8 @@ author_profile: true
 
 
 You can find my publications here:
-* 👉 **[Google Scholar Profile](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en)**
+* 👉 **[INSPIRE](https://inspirehep.net/authors/3131823)**
 
 Codes contributed to published papers are avaliable here:
-* 👉 **[Code](https://github.com/Vincent-R-Zou)**
+* 👉 **[Codes](https://github.com/Vincent-R-Zou)**
 
