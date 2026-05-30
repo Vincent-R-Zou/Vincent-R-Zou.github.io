@@ -11,7 +11,7 @@ author_profile: true
 
 > **Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S.
 
-👉 ([Master's Thesis](.\assets\cquthesis.pdf))
+👉 ([Master's Thesis](../assets/cquthesis.pdf))
 
 
 
