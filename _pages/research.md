@@ -1,11 +1,9 @@
 ---
-layout: archive
-title: "Research"
+layout: archive 
+title: " "
 permalink: /research/
 author_profile: true
 ---
-
-### 🔬 Research Interests
 
 * **Particle Physics**: Neutrino Physics & the search for Beyond the Standard Model (BSM) Physics.
 * **Astrophysics**: High-Energy Transients & Dark Matter.
@@ -13,6 +11,8 @@ author_profile: true
 
 > **Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S.
 
-👉 ([Master's Thesis](./assets/cquthesis.pdf))
+👉 ([Master's Thesis](.\assets\cquthesis.pdf))
+
+
 
 
