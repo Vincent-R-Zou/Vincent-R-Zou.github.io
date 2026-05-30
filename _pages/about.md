@@ -10,30 +10,10 @@ redirect_from:
 ### 🌌 Vincent (Rui) Zou
 **Research Assistant | Southern University of Science and Technology (SUSTech)**
 
-I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https://cygao.com/). My current research focuses on uncovering the mysteries of **neutrino physics** and **Beyond the Standard Model (BSM)** physics
+I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https://cygao.com/).
 
 ---
 
-### 🔬 Research Interests
-
-* **Particle Physics**: Neutrino Physics & the search for Beyond the Standard Model (BSM) Physics.
-* **Astrophysics**: High-Energy Transients & Dark Matter.
-* **Cosmology**: Evolution of the Universe.
-
-> **Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S. ([Master Thesis](pdf)
-
-
----
-
-### 📚 Publications & Codes
-
-You can find my publications here:
-* 👉 **[Google Scholar Profile](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en)**
-
-Codes contributed to published papers are avaliable here:
-* 👉 **[Code](https://github.com/Vincent-R-Zou)**
-
----
 
 ### 📬 Feel Free to Contact Me
 
