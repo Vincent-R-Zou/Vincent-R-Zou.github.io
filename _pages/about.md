@@ -7,19 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-### 🌌 Vincent (Rui) Zou
+###  Vincent Zou
 **Research Assistant | Southern University of Science and Technology (SUSTech)**
 
-I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https://cygao.com/).
+I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https://cygao.com/). 
 
 ---
 
+Feel free to contact me through `vincentz0704@gmail.com`.
 
-### 📬 Feel Free to Contact Me
 
-* **Preferred Name**: Vincent Zou 
-* **Official Name**: Rui Zou 
-* **Email**: `vincentz0704@gmail.com`
 
 
 <!-- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
